@@ -1,2 +1,1 @@
-README.md# Neowaleeth
-For improving knowledge 
+README.md
